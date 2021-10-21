@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgb(255, 101, 45);
+}
+.verde
+{
+    background-color: darkgreen;
+    color:black;  
+    text-align: center;
+}
+.verde2
+{
+    background-color: darkgreen;
+    color:black;  
+}
+.negro
+{
+    background-color: black;
+    color:black;
+}
